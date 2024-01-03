@@ -99,7 +99,7 @@
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Los Angeles</InArgument>
           <InArgument x:TypeArguments="x:String">New York</InArgument>
-          <InArgument x:TypeArguments="x:String">Atlanta</InArgument>
+          <InArgument x:TypeArguments="x:String">Boston</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
@@ -109,6 +109,7 @@
           <InArgument x:TypeArguments="x:String">Manchester</InArgument>
           <InArgument x:TypeArguments="x:String">Birmingham</InArgument>
           <InArgument x:TypeArguments="x:String">Brighton</InArgument>
+          <InArgument x:TypeArguments="x:String">Tottenham</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
